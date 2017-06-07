@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1496823666 source:g:\github\hello\src\helloworld.cpp
+	"HelloWorld.h"
+	<iostream>
+
+1496823171 g:\github\hello\include\helloworld.h
+
+1496823912 source:g:\github\hello\src\tt.cpp
+
+1496823908 source:g:\github\hello\src\lala.cpp
+	<iostream>
+	<stdio.h>
+
+1496823910 source:g:\github\hello\fsd.cpp
+	<iostream>
+	<stdio.h>
+
